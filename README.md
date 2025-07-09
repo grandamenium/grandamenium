@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm James 👋
 
-<!--
-**grandamenium/grandamenium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Neuroscience researcher turned software builder. I write code with a systems mindset and a bias toward shipping.  
+Currently reverse-engineering the dev world one context window at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Cursor-comment-reading my way through React, TypeScript, Node, and PostgreSQL
+- AI agents, MCP & A2A, context/prompt engineering are my main focus
+- Background in neural circuit development, systems neuroscience, and molecular biology
+- I care about modularity, first-principles thinking, and building tools that scale with clarity
+
+---
+
+## 🛠 My Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, Python, HTML/CSS, SQL
+
+**Frameworks & Tools:**  
+React, React Native, Node.js, Expo, PostgreSQL, Firebase, n8n, LangChain, Tailwind, Git, Vercel, RevenueCat, Stripe
+
+---
+
+## 🤝 Let's Connect
+
+- [Website](buiding)
+- [LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/james-goldbach-b8b08a288/))
+- [Email](contact@example.com)
