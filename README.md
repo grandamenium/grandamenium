@@ -1,6 +1,6 @@
 # Hey, I'm James 👋
 
-Neuroscience researcher turned software builder. I write code with a systems mindset and a bias toward shipping.  
+Neuroscience researcher turned software builder. I write code with a modular systems mindset.  
 Currently reverse-engineering the world of software one context window at a time.
 
 ---
