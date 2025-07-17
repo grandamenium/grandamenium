@@ -26,6 +26,6 @@ React, React Native, Node.js, Expo, PostgreSQL, Firebase, n8n, LangChain, Tailwi
 
 ## 🤝 Let's Connect
 
-- [Website](buiding)
+- [Website](statespacedesign.com)
 - [LinkedIn](https://www.linkedin.com/in/james-goldbach-b8b08a288/)
 - [Email](contact@example.com)
