@@ -8,9 +8,9 @@ Currently reverse-engineering the world of software one context window at a time
 ## 🧠 About Me
 
 - Cursor-comment-reading my way through React, TypeScript, Node, and PostgreSQL
-- Specialize in AI agents, MCP & A2A, context/prompt engineering
-- Background in neural circuit development, systems neuroscience, and molecular biology
-- I care about modularity, first-principles thinking, and building tools that scale horizontally
+- Specialize in AI agents, MCP & A2A, context engineering systems
+- Background in neural development, systems neuroscience, and molecular biology
+- I care about modularity, first-principles thinking, and building useful hackable tools for myself and other devs
 
 ---
 
